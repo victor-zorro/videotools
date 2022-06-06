@@ -1,6 +1,8 @@
 # videotools
 A set of windows 10 mediaserver tools for the advanced videoartist
 
+**Warning, this is testing only, use at your own risk. And not just before shows or in live environement!**
+
 We use a lot of different media servers, but we always encounter the same issues. Like disable windows update, autostart Resolume Arena, or not when you try to solve something. I bundled  a set of video tools in a node-red patch and some batch scripts to make life  as a visual artist or video tech easier. This is the first test version. I assume some basic knoledge of computers/windows and of node-red. There are plenty of tutorials online about the latter.,  If you do not know what a powershell is this is probably not (yet) for you.
 
 **Instructions:**
