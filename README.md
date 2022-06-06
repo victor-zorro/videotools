@@ -32,7 +32,8 @@ If not, do so for all shortcuts in the root folder.
 
 
 2. 
-To verify is a startup program is added, open  a file explorer window and navigate to:C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+To verify is a startup program is added, open  a file explorer window and navigate to:
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 All shortcuts to startup programs will be placed here.
 
