@@ -18,6 +18,8 @@ Only for node-red users, assumes you have nodered running (skip if you dont inte
 - if you want to use the node-red patch
 - open a browser and open 127.0.0.1:1880
 - import node-red-videotools-patch_0.x.json- choose deploy, or install dependancies in manage palette
+- in your browser, go to **127.0.0.1:188/ui** to view and interact with the user interface
+- from different computers in the same network, you can acces the web interface too. http://yourserverip:1880/ui
 
 Non Node-Red:
 - If you do not use node-red, or intent to, all scripts in te videotools folder can be run manually by dubbleclicking.
